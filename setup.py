@@ -41,7 +41,7 @@ setup(name='x84',
       },
       install_requires=[
           'blessed>=1.9.5,<2.0.0',
-          'requests==2.5.1',
+          'requests==2.20.0',
           'irc==11.0.1',
           'sqlitedict==1.1.0',
           'python-dateutil==2.3',
